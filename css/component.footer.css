@@ -4,36 +4,26 @@
     Main footer of the website
 */
 
-.c-footer {
-}
+.c-footer {}
 
-.c-footer__logo {
-}
+.c-footer__logo {}
 
-.c-footer__nav {
-}
+.c-footer__nav {}
 
 @media (min-width: 768px) {
-    .c-footer {
-    }
+    .c-footer {}
 
-    .c-footer__logo {
-    }
+    .c-footer__logo {}
 
-    .c-footer__nav {
-    }
+    .c-footer__nav {}
 }
 
 @media (min-width: 992px) {
-    .c-footer {
-    }
+    .c-footer {}
 
-    .c-footer__logo {
-    }
+    .c-footer__logo {}
 
-    .c-footer__logo .c-logo {
-    }
+    .c-footer__logo .c-logo {}
 
-    .c-footer__nav {
-    }
+    .c-footer__nav {}
 }

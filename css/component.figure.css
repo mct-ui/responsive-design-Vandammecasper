@@ -4,13 +4,10 @@
     Special type of figure and figcaption
 */
 
-.c-figure {
-}
+.c-figure {}
 
-.c-figure__caption {
-}
+.c-figure__caption {}
 
 @media (min-width: 768px) {
-    .c-figure__caption--absolute {        
-    }
+    .c-figure__caption--absolute {}
 }

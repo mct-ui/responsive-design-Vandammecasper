@@ -21,12 +21,10 @@
     color: #7373F5;
 }
 
-.c-link-cta::after {
-}
+.c-link-cta::after {}
 
 .c-link-cta:hover {
     color: #3E3EA8;
 }
 
-.c-link-cta:hover::after {
-}
+.c-link-cta:hover::after {}
